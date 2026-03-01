@@ -1,6 +1,6 @@
 return {
 	{
-		dir = "~/.config/omarchy/themes/lerm-omarchy/lermtheme.nvim",
+		dir = "~/.config/omarchy/themes/lerm-theme/lermtheme.nvim",
 		name = "lermtheme",
 		lazy = false,
 		priority = 1000,

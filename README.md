@@ -23,16 +23,16 @@ Deep dark background with blue accent and vibrant syntax colors — designed for
 ### Via `omarchy-theme-install` (recommended)
 
 ```bash
-omarchy-theme-install https://github.com/lerm/lerm-omarchy
+omarchy-theme-install https://github.com/lerm/lerm-theme
 ```
 
-This clones the repository directly into `~/.config/omarchy/themes/lerm-omarchy/` and activates the theme automatically.
+This clones the repository directly into `~/.config/omarchy/themes/lerm-theme/` and activates the theme automatically.
 
 ### Manual
 
 ```bash
-git clone https://github.com/lerm/lerm-omarchy ~/.config/omarchy/themes/lerm-omarchy
-omarchy-theme-set lerm-omarchy
+git clone https://github.com/lerm/lerm-theme ~/.config/omarchy/themes/lerm-theme
+omarchy-theme-set lerm-theme
 ```
 
 ## What's Included
@@ -75,7 +75,7 @@ The `neovim.lua` at the theme root is the LazyVim spec that points to the local 
 ## Structure
 
 ```
-lerm-omarchy/
+lerm-theme/
 ├── backgrounds/            # Theme wallpapers
 ├── lermtheme.nvim/         # Neovim plugin (full colorscheme)
 │   ├── colors/
