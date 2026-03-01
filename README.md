@@ -23,7 +23,7 @@ Deep dark background with blue accent and vibrant syntax colors — designed for
 ### Via `omarchy-theme-install` (recommended)
 
 ```bash
-omarchy-theme-install https://github.com/lerm/lerm-theme
+omarchy-theme-install https://github.com/guilermmm/lerm-theme
 ```
 
 This clones the repository directly into `~/.config/omarchy/themes/lerm-theme/` and activates the theme automatically.
@@ -31,7 +31,7 @@ This clones the repository directly into `~/.config/omarchy/themes/lerm-theme/` 
 ### Manual
 
 ```bash
-git clone https://github.com/lerm/lerm-theme ~/.config/omarchy/themes/lerm-theme
+git clone https://github.com/guilermmm/lerm-theme ~/.config/omarchy/themes/lerm-theme
 omarchy-theme-set lerm-theme
 ```
 
