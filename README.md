@@ -106,4 +106,4 @@ lerm-theme/
 ## Credits
 
 - Color palette based on the [J-Artur](https://marketplace.visualstudio.com/items?itemName=jartur.j-artur-theme) VS Code theme
-- Built for [Omarchy](https://omarchy.com) by [@lerm](https://github.com/lerm)
+- Built for [Omarchy](https://omarchy.com) by [@guilermmm](https://github.com/guilermmm)
