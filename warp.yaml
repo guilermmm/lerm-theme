@@ -1,0 +1,25 @@
+name: LermTheme
+accent: "#3b82f6"
+cursor: "#3b82f6"
+background: "#111316"
+foreground: "#A3ABB8"
+details: darker
+terminal_colors:
+  normal:
+    black: "#3f4451"
+    red: "#e05561"
+    green: "#6CDD5F"
+    yellow: "#F1FA8C"
+    blue: "#4aa5f0"
+    magenta: "#FF79C6"
+    cyan: "#8BE9FD"
+    white: "#F8F8F2"
+  bright:
+    black: "#4f5666"
+    red: "#ff616e"
+    green: "#7CED71"
+    yellow: "#FFFFA5"
+    blue: "#4dc4ff"
+    magenta: "#FF92DF"
+    cyan: "#A4FFFF"
+    white: "#FFFFFF"

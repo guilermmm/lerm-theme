@@ -1,0 +1,46 @@
+# Main bg/fg
+theme[main_bg]="#111316"
+theme[main_fg]="#A3ABB8"
+theme[title]="#E5E7EB"
+theme[hi_fg]="#3b82f6"
+theme[selected_bg]="#2F343C"
+theme[selected_fg]="#E5E7EB"
+theme[inactive_fg]="#596373"
+theme[proc_misc]="#3b82f6"
+
+# Box borders
+theme[cpu_box]="#3b82f6"
+theme[mem_box]="#FF79C6"
+theme[net_box]="#6CDD5F"
+theme[proc_box]="#4aa5f0"
+theme[div_line]="#2F343C"
+
+# CPU gradient
+theme[temp_start]="#6CDD5F"
+theme[temp_mid]="#F1FA8C"
+theme[temp_end]="#e05561"
+theme[cpu_start]="#3b82f6"
+theme[cpu_mid]="#4dc4ff"
+theme[cpu_end]="#8BE9FD"
+
+# Memory gradient
+theme[free_start]="#6CDD5F"
+theme[free_mid]="#8BE9FD"
+theme[free_end]="#4aa5f0"
+theme[cached_start]="#F1FA8C"
+theme[cached_mid]="#FF79C6"
+theme[cached_end]="#e05561"
+theme[available_start]="#6CDD5F"
+theme[available_mid]="#4aa5f0"
+theme[available_end]="#FF79C6"
+theme[used_start]="#3b82f6"
+theme[used_mid]="#FF79C6"
+theme[used_end]="#e05561"
+
+# Network gradient
+theme[download_start]="#3b82f6"
+theme[download_mid]="#4dc4ff"
+theme[download_end]="#8BE9FD"
+theme[upload_start]="#FF79C6"
+theme[upload_mid]="#FF92DF"
+theme[upload_end]="#e05561"
